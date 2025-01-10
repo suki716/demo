@@ -4,4 +4,8 @@ public class Another {
     public Another() {
         x = 0;
     }
+
+    public int getX(){
+        return x;
+    }
 }
