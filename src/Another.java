@@ -8,4 +8,9 @@ public class Another {
     public int getX(){
         return x;
     }
+
+    public void setX(int newX) {
+        x = newX;
+    }
+
 }
