@@ -16,4 +16,8 @@ public class Another {
     public void print() {
         System.out.println(x);
     }
+
+    public void add(int num){
+        x += num;
+    }
 }
