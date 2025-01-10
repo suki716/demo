@@ -13,4 +13,7 @@ public class Another {
         x = newX;
     }
 
+    public void print() {
+        System.out.println(x);
+    }
 }
